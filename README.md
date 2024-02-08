@@ -3,6 +3,6 @@
 
 | Episode  | Recording | Transcript |
 | - | - | - |
-| <img src="https://github.com/Portkey-AI/LLMs-in-Prod-Podcast/assets/134934501/ef35a0c6-b8c5-4059-8804-169f546eb1e9" width=500 /> | [Link](https://portkey.ai/) | [Link](https://portkey.ai/)
+| <img src="https://github.com/Portkey-AI/LLMs-in-Prod-Podcast/assets/134934501/ef35a0c6-b8c5-4059-8804-169f546eb1e9" width=500 /> | [Link](https://portkey.ai/) | [Link](/Episodes/001-Rohit-Chatter-Semantic-Caching-at-Scale.md)
 
 </div>
